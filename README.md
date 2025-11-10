@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Packages:</h3>
-- A flexible Chat Application for open source software society. Just enter this Command: <a href="https://pypi.org/project/django-chatapp/" target="blank">pip install django-chatapp</a>
+- A flexible <a href="https://pypi.org/project/django-chatapp/" target="blank">Chat Application</a> for open source software society.
 
 <h3 align="left">States:</h3>
 
