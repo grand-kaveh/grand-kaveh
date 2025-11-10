@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Packages:</h3>
-- [pip install django-chatapp](https://pypi.org/project/django-chatapp/)
+<a href="https://pypi.org/project/django-chatapp/" target="blank">pip install django-chatapp</a>
 
 <h3 align="left">States:</h3>
 
