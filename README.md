@@ -14,7 +14,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/>
@@ -29,6 +28,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="26" height="26"/>
+</p>
+
+<h3 align="left">Packages:</h3>
+<p align="left">
+[pip install django-chatapp](https://pypi.org/project/django-chatapp/)
 </p>
 
 <h3 align="left">States:</h3>
